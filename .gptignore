@@ -1,0 +1,10 @@
+__pycache__/
+.git/*
+.git/**/*
+.gptignore
+.gitignore
+*.md
+*.png
+*.jpeg
+*.jpg
+*.pyc

@@ -1,0 +1,6 @@
+psycopg2
+types-psycopg2
+black
+pylint
+mypy
+coverage
